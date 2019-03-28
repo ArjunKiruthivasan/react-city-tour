@@ -1,0 +1,11 @@
+Create new repository:
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:ArjunKiruthivasan/react-city-tour.git
+git push -u origin master
+
+
+Exisiting repository
+git remote add origin git@github.com:ArjunKiruthivasan/react-city-tour.git
+git push -u origin master
